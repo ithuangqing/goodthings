@@ -9,7 +9,7 @@
 
 [强大的预览工具--seer](强大的预览工具--seer.md)
 
-[Lily2.8 快捷启动工具 专为程序员、美工设计、Hacker、办公达人设计](Lily2.8 快捷启动工具 专为程序员、美工设计、Hacker、办公达人设计.md)
+[Lily2.8 快捷启动工具 专为程序员、美工设计、Hacker、办公达人设计](Lily2.8 快捷启动工具专为程序员、美工设计、Hacker、办公达人设计.md)
 
 [百度文库轻松下---冰点文库](百度文库轻松下---冰点文库.md)
 
@@ -25,7 +25,7 @@
 
 [视频录制我用oCam](视频录制我用oCam.md)
 
-[桌面图标分类工具 Stardock Fences](桌面图标分类工具 Stardock Fences.md)
+[桌面图标分类工具 Stardock Fences](桌面图标分类工具StardockFences.md)
 
 
 
